@@ -157,10 +157,10 @@
         let op = getRandomOperator();
         let cal = number1 + " " + op + " " + number2;
         if(level >= 10){
-            cal = number1 + " " + op + " " + number2+ getRandomOperator()+" "+getRandomNumber(1*level, 5*level);
+            cal = number1 + " " + op + " " + number2+ getRandomOperator()+" "+getRandomNumber(2, 10);
         }
         document.getElementById("calculation").innerHTML = cal;
-        document.getElementById("result").innerHTML = getRandomResult(cal);
+        document.getElementById("result").innerHTML = getRandomResult();
     }
 
     function getRandomResult() {
@@ -184,7 +184,7 @@
             timeDiv.style.width = widthTime * time/fullTime + "px";
             if(time <= 0){
                 clearInterval(run);
-                // gameOver();
+                gameOver();
             }
         },100);
      }
