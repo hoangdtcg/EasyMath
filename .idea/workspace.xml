@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="002949b5-3585-4aff-8962-d18c8f1a2a2c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game-show-correct-answer.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/correct.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/correct2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrong.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -32,7 +35,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -57,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586940435948</updated>
       <workItem from="1586940437155" duration="5851000" />
-      <workItem from="1586971049657" duration="8997000" />
+      <workItem from="1586971049657" duration="10035000" />
     </task>
     <servers />
   </component>
