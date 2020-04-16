@@ -160,7 +160,7 @@
             cal = number1 + " " + op + " " + number2+ getRandomOperator()+" "+getRandomNumber(2, 10);
         }
         document.getElementById("calculation").innerHTML = cal;
-        document.getElementById("result").innerHTML = getRandomResult();
+        document.getElementById("result").innerHTML = getRandomResult(cal);
     }
 
     function getRandomResult() {
@@ -174,7 +174,7 @@
     }
 
     function getFakeResult() {
-        let fakeResult = getRandomNumber(getResult() - 10, getResult() + 10);
+        let fakeResult = getRandomNumber(getResult() - getRandomNumber(2,20), getResult() + getRandomNumber(2,20));
         return (fakeResult === getResult()) ? getFakeResult() : fakeResult;
     }
      function countDown() {
