@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="002949b5-3585-4aff-8962-d18c8f1a2a2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Game-show-correct-answer.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/correct.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/correct2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wrong.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586940435948</updated>
       <workItem from="1586940437155" duration="5851000" />
-      <workItem from="1586971049657" duration="10035000" />
+      <workItem from="1586971049657" duration="10342000" />
     </task>
     <servers />
   </component>
